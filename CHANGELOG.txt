@@ -1,0 +1,12 @@
+- Altered HTML elements to be semantic 
+- Consolidated CSS classes removing redundancy
+- Added proper site title 
+- Added "title" to CSS defined image Hero for ALT equivalent 
+- Added ALT tags to all images
+- Added Comments to CSS 
+- Added ID to SEO div to fix link 
+- Switched Hero from class to Id due to uniqueness 
+- Added em and abbr elements on important text per: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/abbr#accessibility_concerns
+- Added Content Security Policy for good security hygiene despite flat HTML page
+
+  - No Change: Color passed AA https://contrast-ratio.com/#%23d9dcd6-on-%232a607c 
