@@ -17,5 +17,9 @@ For level down of changes made  see CHANGELOG.txt
 
 *General Info*
 
+[Deployed Page](https://anon123123123.github.io/seo-marketing-proj-1/)
+
+![Screenshot of page](./assets/images/seo-page-screenshot.png)
+
 Author: Chris Davis
 Class: DU-DEN-VIRT-FSF-PT-12-2021-U-C
